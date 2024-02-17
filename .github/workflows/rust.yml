@@ -31,4 +31,3 @@ jobs:
         name: vortex-build-artifacts
         path: |
           target/debug/vortex
-          target/debug/deps
