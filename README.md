@@ -10,6 +10,7 @@ The voice server for Revolt.
 
 ## Stack
 
+
 - [Rust](https://www.rust-lang.org/)
 - [Mediasoup](https://mediasoup.org/)
 - [Warp](https://github.com/seanmonstar/warp) (HTTP)
