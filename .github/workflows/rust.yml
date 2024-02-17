@@ -31,4 +31,4 @@ jobs:
       with:
         name: vortex-build-artifacts
         path: |
-          target/vortex
+          target/release/vortex
